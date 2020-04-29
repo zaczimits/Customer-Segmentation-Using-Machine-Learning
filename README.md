@@ -1,0 +1,2 @@
+# Customer-Segmentation-Using-Machine-Learning
+Using a dataset from the UCI Machine Learning Repository, I segmented customers of an e-commerce company using an RFM analysis. An RFM analysis classifies customers based on the recency of their last purchase, frequency of purchase, and the monetary value of each purchase. I constructed multiple machine learning models and evaluated each to determine the most effective model for the segmentation of this dataset.
